@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hey, I'm Bhuvi 👋  
 
-<!--
-**bhuvi-kc/bhuvi-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st Year COE @ Thapar Institute of Engineering and Technology  
+💡 Learning C++ | Building logic | Exploring hackathons, open source & everything tech  
+🌱 On a journey from curious beginner to confident developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m currently doing
+- Strengthening DSA & C++ fundamentals  
+- Exploring open-source contributions  
+- Participating in college hackathons & tech communities  
+
+---
+
+### 🛠️ Tech Interests
+- Competitive Programming  
+- Cybersecurity & Web Development  
+- Software Engineering  
+
+---
+
+### 🌍 Connect with me:
+- [LinkedIn] (www.linkedin.com/in/bhuvi0149)  
+
+---
